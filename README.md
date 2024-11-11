@@ -8,19 +8,13 @@ O esquema deverá ser adicionado a um repositório do Github para futura avalia�
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 ## Narrativa:
-Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
-<br/>
-Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
-<br/>
-Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
-<br/>
-A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra
-<br/>
-O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
-<br/>
-A mesma equipe avalia e executa os serviços
-<br/>
-Os mecânicos possuem código, nome, endereço e especialidade
-<br/>
-Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+<ul>
+	<li><span style="color:black">Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica</span></li>
+	<li><span style="color:black">Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões&nbsp; periódicas</span></li>
+	<li><span style="color:black">Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.</span></li>
+	<li><span style="color:black">A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra</span></li>
+	<li><span style="color:black">O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços</span></li>
+	<li><span style="color:black">A mesma equipe avalia e executa os serviços</span></li>
+	<li><span style="color:black">Os mecânicos possuem código, nome, endereço e especialidade</span></li>
+	<li><span style="color:black">Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.</span></li>
+</ul>
